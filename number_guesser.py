@@ -1,7 +1,7 @@
 import random
 
 # get number input
-top_of_range = input("Type a number to generate a random number. You'll then guess the random number: ")
+top_of_range = input("Enter a number. Then guess a random number from 1 to the number entered: ")
 
 # check number
 if top_of_range.isdigit():
