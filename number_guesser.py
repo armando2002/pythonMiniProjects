@@ -40,3 +40,5 @@ while True:
         print("You were below the number")
 
 print("You got it in", guesses, "guesses")
+
+# Add test cases and add the str and float checks and a reset function
