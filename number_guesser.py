@@ -32,7 +32,6 @@ while True:
         continue
 
     if user_guess == random_number:
-        # commas let you use a variable easily
         print("You got it!")
         break
     elif user_guess > random_number:
