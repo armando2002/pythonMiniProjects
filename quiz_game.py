@@ -45,3 +45,6 @@ else:
     print("Sorry, wrong answer.")
 
 print(f"Your got a {str(score)} out of 5.")
+
+# need to add a dictionary of states/capitols and allow randomly selecting a certain # of questions based on user input
+
